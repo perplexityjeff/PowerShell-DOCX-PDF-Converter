@@ -1,5 +1,5 @@
 # PowerShell-DOCX-PDF-Converter
-A PowerShell based DOCX to PDF converter based on using LibreOffice instead of Microsoft Office. This uses either a installed or portable version of LibreOffice to convert your documents from docx to pdf. The script is made to bulk (batch) convert from directory A to directory B. Feel free to edit the script to your needs if you require otherwise.
+A PowerShell based DOCX to PDF converter based on using LibreOffice instead of Microsoft Office. This uses either a installed or portable version of LibreOffice to convert your documents from docx to pdf. But support for other outputs or inputs is included but not tested. The script is made to bulk (batch) convert from directory A to directory B. Feel free to edit the script to your needs if you require otherwise.
 
 ### Usage
 ```
