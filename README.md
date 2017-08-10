@@ -9,5 +9,8 @@ A PowerShell based DOCX to PDF converter based on using LibreOffice instead of M
 ```
 
 #LibreOffice
-As I said you can either use the portable version or the installed version on your computer. Please visit
-https://libreoffice.org/ for the download of this amazing product. If you wish to directly use the portable version then please go here https://www.libreoffice.org/download/portable-versions/
+As I said you can either use the portable version or the installed version on your computer. 
+
+Please visit https://libreoffice.org/ for the download of this amazing product. 
+
+If you wish to directly use the portable version then please go here https://www.libreoffice.org/download/portable-versions/
