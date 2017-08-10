@@ -2,10 +2,13 @@
 A PowerShell based DOCX to PDF converter based on using LibreOffice instead of Microsoft Office. This uses either a installed or portable version of LibreOffice to convert your documents from docx to pdf. But support for other outputs or inputs is included but not tested. The script is made to bulk (batch) convert from directory A to directory B. Feel free to edit the script to your needs if you require otherwise.
 
 ### Usage
-```
-.\Convert-Documents.ps1 -InputDirectory C:\Users\example\Desktop\In -OutputDirectory C:\Users\example\Desktop\Out\ -ConvertTo pdf -LibreOfficeExe <LibreOffice (soffice.exe) location>
 
-.\Convert-Documents.ps1 -InputDirectory C:\Users\example\Desktop\In -OutputDirectory C:\Users\example\Desktop\Out\ -ConvertTo pdf -LibreOfficeExe <LibreOffice (soffice.exe) location>
+You can always use Get-Help .\Convert-Documents.ps1 to find help and examples. But general usage is listed under here to convert DOCX to PDF. 
+
+```
+.\Convert-Documents.ps1 -InputDirectory C:\Users\example\Desktop\In -OutputDirectory C:\Users\example\Desktop\Out\ -LibreOfficeExe <LibreOffice (soffice.exe) location>
+
+.\Convert-Documents.ps1 -InputDirectory C:\Users\example\Desktop\In -OutputDirectory C:\Users\example\Desktop\Out\ -LibreOfficeExe <LibreOffice (soffice.exe) location>
 ```
 
 ### LibreOffice
